@@ -1,0 +1,17 @@
+{
+  "requests": [
+      {
+        "image": {
+          "source": {
+              "gcsImageUri": 
+          }
+        },
+        "features": [
+          {
+            "type": 
+            "maxResults": 10
+          }
+        ]
+      }
+  ]
+}

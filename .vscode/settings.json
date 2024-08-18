@@ -5,7 +5,17 @@
         "utility": "cpp",
         "iostream": "cpp",
         "map": "cpp",
-        "vector": "cpp"
+        "vector": "cpp",
+        "queue": "cpp",
+        "barrier": "cpp",
+        "chrono": "cpp",
+        "latch": "cpp",
+        "limits": "cpp",
+        "random": "cpp",
+        "semaphore": "cpp",
+        "valarray": "cpp",
+        "algorithm": "cpp",
+        "iosfwd": "cpp"
     },
     "C_Cpp.errorSquiggles": "disabled"
 }
